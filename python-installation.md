@@ -1,3 +1,3 @@
 How to install Python
 
-Steps
+Steps :
