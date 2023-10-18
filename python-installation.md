@@ -7,7 +7,7 @@ Steps :
 3. klik Install dan Next
 
 Hasil Installasinya
-[image](
+[image](https://drive.google.com/file/d/1iyhzbDSqieuanhoXg8mDToIJbRqzBNyO/view?usp=share_link)
 
 How to install PostgreSQL
 
