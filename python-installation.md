@@ -7,26 +7,15 @@ Steps :
 3. klik Install dan Next
 
 Hasil Installasinya
-[image](https://drive.google.com/file/d/1iyhzbDSqieuanhoXg8mDToIJbRqzBNyO/view?usp=share_link)
-
+[image](https://drive.google.com/file/d/1fEGzFV_bNQDhJyheY0dmXYKMds-cWCyW/view?usp=sharing)
 How to install PostgreSQL
 
 Steps :
 
-1. Download PostgreSQL Installer : [Click here](https://www.enterprisedb.com/download-postgresql-binaries)
+1. Download PostgreSQL Installer : [Click here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 2. Klik File installer
 3. klik Install dan Next
 
 Hasil Installasinya
 [image](
 
-How to install Vscode
-
-Steps :
-
-1. Download Vscode Installer : [Click here](https://code.visualstudio.com/download)
-2. Klik File installer
-3. klik Install dan Next
-
-Hasil Installasinya
-[image](
