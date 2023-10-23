@@ -7,4 +7,4 @@ Steps :
 3. klik Install dan Next
 
 Hasil Installasinya
-[image](
+[image](https://drive.google.com/file/d/1dlxv4awpd6yQZFdAZ6oMhB-_rcB9hJI-/view?usp=sharing)
